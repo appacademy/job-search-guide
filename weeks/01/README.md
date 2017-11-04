@@ -17,11 +17,11 @@ Setting up flashcards.
 - HTTP
 - Databases 
 
-## Algorithms/DS 
+### Algorithms/DS 
 - Leetcode/Hackerrank
 - EPI problems
 
-## Practical 
+### Practical 
 
 
 ## Projects (aka improving your portfolio)
