@@ -22,8 +22,8 @@ Setting up flashcards.
 - Databases 
 
 ### Algorithms/DS (1 hour 45 minutes)
-- Leetcode/Hackerrank
-- EPI problems
+- 1 Leetcode/Hackerrank 
+- 1 EPI problem (more systematic targetting)
 
 ### Practical (1 hour)
 - Node project

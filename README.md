@@ -26,3 +26,12 @@ That means that you should definitely take care of yourself: get enough rest, ea
 
 Consistency is also highly important, which is why it's important to find a sustainable pace. You want to, at all cost, avoid "0 days". In other words, never want to have a day where you accomplish nothing. Every day of the job search is important. If your goal is to find a job in 12 weeks, then, assuming that you work 6 out of the 7 days of the week, you have 72 days to get yourself a job offer! Ever day and every hour counts and is important!
 
+![Quantity vs. Quality](img/2017-11-07-14-27-28.png)
+
+["Make something and break some pots along the way"](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+
+## List of Resources
+
+* https://github.com/jwasham/coding-interview-university
+* https://www.topcoder.com/community/data-science/data-science-tutorials/
+* https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
