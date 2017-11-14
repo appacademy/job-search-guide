@@ -30,6 +30,8 @@ Consistency is also highly important, which is why it's important to find a sust
 
 ["Make something and break some pots along the way"](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
+"Knowledge and productivity are like compound interest. Given two people of approximately the same ability and one person who works 10% more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. I don’t want to give you a rate, but it is a very high rate. Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime. I took Bode’s remark to heart; I spent a good deal more of my time for some years trying to work a bit harder and I found, in fact, I could get more work done."
+
 ## List of Resources
 
 * https://github.com/jwasham/coding-interview-university
