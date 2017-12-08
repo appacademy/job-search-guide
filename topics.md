@@ -9,3 +9,6 @@
 ## JavaScript 
 - [Fundamental Concepts To Prioritize](https://www.quora.com/What-are-the-most-important-JavaScript-concepts-to-know-for-a-job-interview/answer/Sebastian-Sch%C3%BCrmann)
 
+## React/Redux 
+
+## Other 
