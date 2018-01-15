@@ -146,36 +146,29 @@ Here are some great sources for whiteboarding problems:
 * [Interview Cake](https://www.interviewcake.com/)
 * [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
+### Timer
+
+You'll notice that there are time recommendations on all of the above sections. I highly recommend using a timer for all parts of your job search. This will have multiple benefits, such as helping us get used to being under timed pressure and helping us stay efficient with our time.
+
+Remember, every minute of the job search is crucial, so a timer just helps us turn that fact into a concrete practice!
+
 #### Extra Live Practice
 
 Each week, you'll also want to find a partner to pairboard with, as well as do a practice session on [Pramp](https://www.pramp.com/).
 
 ## Job Search Tracker
 
-https://docs.google.com/spreadsheets/d/1UTRb2rwTbQcZkYvhzJhdce92jSs4D-huRJFsvMz8czE/edit#gid=0
+We'll be using this [job search tracker](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=0) to keep track of everything that we're doing.
 
-"Knowledge and productivity are like compound interest. Given two people of approximately the same ability and one person who works 10% more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. I don’t want to give you a rate, but it is a very high rate. Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime. I took Bode’s remark to heart; I spent a good deal more of my time for some years trying to work a bit harder and I found, in fact, I could get more work done."
+Here's an example of how a [filled-out tracker](https://docs.google.com/spreadsheets/d/1WYo1NbO5N9aZ1u3j7HwDmEUaM6OWixlo-ygH11ZY15g/edit#gid=632123073) might look like.
 
-http://www.gwern.net/Spaced-repetition
-
-“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” — Abraham Lincoln.
-
-We'll break down our studying into 4 main fields:
-
-### Flashcards
-
-There are 2 main goals when it comes to studying:
-
-1. Understanding the concepts deeply enough to be able to explain it clearly
-   and concisely in an interview
-1. Retaining the concepts that you studied, at the very least for the entire
-   duration of your job search
+This will be especially helpful for your coaches to get a comprehensive picture of how your job search is going, and to see which areas they can provide support in.
 
 ## Action Items
 
 * [ ] Download [Anki](https://apps.ankiweb.net/)
 * [ ] Set up your 5-subect notebook
-* [ ] Make a copy of your own job search tracker into your own Google Drive
+* [ ] Make a copy of your own [job search tracker](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=0) into your own Google Drive
 * [ ] **Navigate to [Week 1](./weeks/01) to get started!**
 
 ## Additional Resources
