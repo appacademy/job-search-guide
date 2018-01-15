@@ -3,13 +3,13 @@
 **If this is your first time here, read the rest of this README before navigating to the weeks.**
 
 * [Week 1](./weeks/01)
-* [Week 2]
-* [Week 3]
-* [Week 4]
-* [Week 5]
-* [Week 6]
-* [Week 7]
-* [Week 8]
+* [Week 2](./weeks/02)
+* [Week 3](./weeks/03)
+* [Week 4](./weeks/04)
+* [Week 5](./weeks/05)
+* [Week 6](./weeks/06)
+* [Week 7](./weeks/07)
+* [Week 8](./weeks/08)
 
 **Purpose**: This repository is a guide for the first 8 weeks of your job search. It provides recommendations on how you should think about your job search, how you should organize your time, and what you should be working on and studying.
 

@@ -14,10 +14,6 @@ The 4 key domains of a job search are:
 
 ### Studying
 
-Studying is clearly an important part of the job search. Studying not only
-helps prepare you for your interviews, but also helps solidify your understanding
-of key concepts that are instrumental to being a successful software engineer.
-
 In no particular order, here are a list of topics that you should be quite comfortable with in order to be successful on the job search:
 
 * JavaScript
@@ -31,7 +27,9 @@ In no particular order, here are a list of topics that you should be quite comfo
 
 ### Coding
 
-https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2
+During the job search, you should [always be coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2):
+
+> The more you code, the better you’ll get — it’s that simple. By coding, you’re practicing. But the best practice is focused practice. Have goals in mind, explore new areas, and challenge yourself. Over time, you should develop a portfolio of both unfinished and finished projects. GitHub is a great place to put this portfolio on display, but just having an eclectic body of work is huge.
 
 "The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the "quantity" group: fifty pound of pots rated an "A", forty pounds a "B", and so on. Those being graded on "quality", however, needed to produce only one pot - albeit a perfect one - to get an "A".
 Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the "quantity" group was busily churning out piles of work - and learning from their mistakes - the "quality" group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay."
@@ -69,8 +67,8 @@ We'll break down our studying into 4 main fields:
 ### 5-subject notebook
 
 1. Algorithms/Data Structures
-2. Web Architecture
-3.
+1. Web Architecture
+1. JavaScript
 
 ### Flashcards
 
@@ -78,8 +76,10 @@ There are 2 main goals when it comes to studying:
 
 1. Understanding the concepts deeply enough to be able to explain it clearly
    and concisely in an interview
-2. Retaining the concepts that you studied, at the very least for the entire
+1. Retaining the concepts that you studied, at the very least for the entire
    duration of your job search
+
+**Now that you have an understanding of how this study guide is broken down, navigate to [Week 1](./weeks/01) to get started!**
 
 ## Additional Resources
 
