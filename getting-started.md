@@ -60,7 +60,7 @@ Here are the different ways that we'll be practicing:
 
 At this point, you might be feeling overwhelmed with the sheer amount of things that we have to do, and that's okay! As previously mentioned, job search is the most difficult part of App Academy, and it requires the most work and effort.
 
-To make sure that we can effectively and efficiently prepare, we'll be spending, on average, about 9 hours per weekday on the job search. During the weekend, we'll spend another total of 9 hours. Here's how this all breaks down:
+To make sure that we can effectively and efficiently prepare, we'll be spending, on average, about 9 hours per weekday on the job search. During the weekend, we'll spend another total of 9 hours between Saturday and Sunday. Here's how this all breaks down:
 
 **Each weekday:**
 
