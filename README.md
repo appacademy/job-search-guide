@@ -1,8 +1,8 @@
 # Job Search Guide
 
-**If this is your first time here, read the rest of this README and the `let's get started!` link before navigating to the weeks.**
+**If this is your first time here, read the rest of this README before navigating to the weeks.**
 
-* [Week 1](./01)
+* [Week 1](./weeks/01)
 * [Week 2]
 * [Week 3]
 * [Week 4]
