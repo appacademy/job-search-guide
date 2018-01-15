@@ -115,7 +115,17 @@ These flashcards will be essential in helping us practice for interviews.
 
 #### Review Anki Flashcards
 
-If you were like me, you
+I used to dislike flashcards. In the past, I personally found them ineffective, so I completely understand if you have skepticism on using them during your job search. However, I will say that one of the biggest regrets of my time here at App Academy is that I didn't start using flashcards right from the very first day of the program.
+
+As a former teacher, I think a lot about how people learn, and I've come to realize that all throughout our previous stages of education, a majority of the learning was geared towards passing a multiple-choice test. Passing a multiple-choice test requires us to be able to recall information and recognize the correct answer out of a pool of 4 or 5 choices. Because of this, passive studying (such as simply readings and watching the lecture) is often sufficient.
+
+Interviewing is drastically different from multiple-choice test. It requires you to not only be able to recall the information, but also to then articulate it and communicate it clearly. There have been so many job-seekers who come out of an interview perplexed because they were asked a question that they thought they had known, but either had not practiced explaining it out loud, or did not know it deeply enough to be able to articulate an explanation of the concept.
+
+That's why I believe in using Anki flashcards. It does 2 things for us:
+
+1. It gives us an avenue to practice explaining concepts out loud. Every day, you
+
+https://apps.ankiweb.net/
 
 ## Tools
 
@@ -140,7 +150,12 @@ There are 2 main goals when it comes to studying:
 1. Retaining the concepts that you studied, at the very least for the entire
    duration of your job search
 
-**Now that you have an understanding of how this study guide is broken down, navigate to [Week 1](./weeks/01) to get started!**
+## Action Items
+
+* [ ] Download Anki
+* [ ] Set up your 5-subect notebook
+* [ ] Make a copy of your own job search tracker into your own Google Drive
+* [ ] **Navigate to [Week 1](./weeks/01) to get started!**
 
 ## Additional Resources
 
