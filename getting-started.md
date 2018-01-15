@@ -51,27 +51,71 @@ Often times, job seekers will spend the majority of their time studying to make 
 
 Here are the different ways that we'll be practicing:
 
-1. Reviewing flashcards
+1. Reviewing Anki flashcards
 1. Coding on Leetcode or Hackerrank
 1. Pair boarding
 1. Mock interviews on Pramp
 
 ## Daily Schedule
 
-Each weekday:
+At this point, you might be feeling overwhelmed with the sheer amount of things that we have to do, and that's okay! As previously mentioned, job search is the most difficult part of App Academy, and it requires the most work and effort.
+
+To make sure that we can effectively and efficiently prepare, we'll be spending, on average, about 9 hours per weekday on the job search. During the weekend, we'll spend another total of 9 hours. Here's how this all breaks down:
+
+**Each weekday:**
 
 1. 2 hours of studying
-1. 2.5 hours of coding
-1. 2 hours of applying and netoworking
 1. 2.5 hours of practicing
+1. 2.5 hours of coding
+1. 2 hours of applying and networking
 
 Over the weekend, you have 2 days to cover the hours listed above.
 
-Each week:
+**Each week:**
 
 1. 1 Pramp
 1. 1 pairboarding session
 1. 1 networking event
+
+Let's go through each part of the day in more detail.
+
+### 2 Hours of Studying
+
+There's a vast amount of content that we have to master. Mastering the content means being able to clearly and cocisely explain the topics or solve the problems in an interview.
+
+In addition, we must also retain the content over time. In other words, if we mastered heap sort today, we can't forget about it in 2 weeks!
+
+Here's our strategy for mastering the large amount of content. Every day, we'll spend:
+
+1. 45 minutes studying algorithms
+1. 15 minutes studying web architecture and system design
+1. 20 minutes studying JavaScript
+1. 20 minutes studying other miscellaneous, but important, topics (such as React/Redux, SQL, Rails, Ruby, HTML/CSS, etc.)
+
+The goal of studying is deep understanding of the topic at hand. I recommend getting a 5 subject notebook and organizing it like this:
+
+1. Algorithms/Data Structures
+1. Web Architecture
+1. JavaScript
+1. Miscellaneous
+1. Practice
+
+Then, while you're reading the articles or watching the recommended videos, take great notes and prioritize truly learning the content.
+
+After your study session, **spend about 20 minutes turning all of the content you had just learned into interview questions and answers, and storing them on flashcards.**
+
+For example, if on that day, you had just learned about the benefits of HTML5, you would turn your notes into an interview question/answer:
+
+* Interview Question: Tell me about the benefits of HTML5.
+* Answer (structure this like how you would respond in an interview): HTML5 has several benefits, including video/audio APIs, canvas, sessionStorage/localStorage, semantic taggings, and better accessbibility. In terms of video/audio APIs...
+
+These flashcards will be essential in helping us practice for interviews.
+
+### 2.5 Hours of Practice
+
+#### Review Anki Flashcards
+
+If you were like me, you
 
 ## Tools
 
@@ -86,24 +130,6 @@ http://www.gwern.net/Spaced-repetition
 “Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” — Abraham Lincoln.
 
 We'll break down our studying into 4 main fields:
-
-1. **Algorithms/Data Structures**- You had 2 weeks during job search curriculum to try to learn as much about algorithms and data structures as possible. Unfortunately, it's not enough, so we absolutely must continue to learn an solidify our understanding of these fundamental computer science concepts.
-1. **Web Architecture**- During App Academy, there's a pretty big focus on just
-   getting things to render correctly and the correct data to show. It's important
-   for us to move past surface level knowledge and to gain a deeper knowledge on
-   important topics like how the internet works or how to scale up a web app.
-1. **JavaScript**- JavaScript is everywhere, and it's one of the topics that
-   comes up the most in interviews.
-1. **Other**- Of course, there's still a multitude of other things that we need
-   to understand well, such as HTML/CSS, React, Redux, SQL, and so on.
-
-### 5-subject notebook
-
-1. Algorithms/Data Structures
-1. Web Architecture
-1. JavaScript
-1. Miscellaneous
-1. Practice
 
 ### Flashcards
 
