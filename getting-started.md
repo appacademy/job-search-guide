@@ -31,10 +31,17 @@ During the job search, you should [always be coding](https://medium.com/always-b
 
 > The more you code, the better you’ll get — it’s that simple. By coding, you’re practicing. But the best practice is focused practice. Have goals in mind, explore new areas, and challenge yourself. Over time, you should develop a portfolio of both unfinished and finished projects. GitHub is a great place to put this portfolio on display, but just having an eclectic body of work is huge.
 
-"The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the "quantity" group: fifty pound of pots rated an "A", forty pounds a "B", and so on. Those being graded on "quality", however, needed to produce only one pot - albeit a perfect one - to get an "A".
-Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the "quantity" group was busily churning out piles of work - and learning from their mistakes - the "quality" group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay."
+Here are some suggestions on what you could be working on:
 
-https://blog.codinghorror.com/quantity-always-trumps-quality/
+1. Coding Challenges (hopefully you'll be getting several of these!)
+1. Polishing or adding features to existing projects
+1. New projects
+
+During the first month of your job search:
+
+1. Prioritize polishing and adding features to existing projects
+1. Then, once your existing projects are in great shape, start building out new projects. Start with smaller-scale projects, and over time, add more fatures to them. (**Unfinished projects are not a bad thing, as long as you are learning from them!**)
+1. All throughout, be sure to put in a sufficient amount of time to coding challenges; always go above and beyond, especially for companies that you really want to work at.
 
 ### Networking/Applying
 
