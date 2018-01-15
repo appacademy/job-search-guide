@@ -39,7 +39,39 @@ Here are some suggestions on what you could be working on:
 
 ### Networking/Applying
 
-### Practing
+You should have a good balance between networking and applying each day. Most job seekers tend to prefer cold applications, because it's a little less intimidating. However, networking is often times much more effective.
+
+Each day, aim to at least network with 2 people, while sending out 5 cold applications.
+
+### Practicing
+
+Interviews come down to two key things: knowing the content, and being able to effectively communicate it.
+
+Often times, job seekers will spend the majority of their time studying to make sure they know the content, but then find that they have a hard time performing in an interview.
+
+Here are the different ways that we'll be practicing:
+
+1. Reviewing flashcards
+1. Coding on Leetcode or Hackerrank
+1. Pair boarding
+1. Mock interviews on Pramp
+
+## Daily Schedule
+
+Each weekday:
+
+1. 2 hours of studying
+1. 2.5 hours of coding
+1. 2 hours of applying and netoworking
+1. 2.5 hours of practicing
+
+Over the weekend, you have 2 days to cover the hours listed above.
+
+Each week:
+
+1. 1 Pramp
+1. 1 pairboarding session
+1. 1 networking event
 
 ## Tools
 
@@ -70,6 +102,8 @@ We'll break down our studying into 4 main fields:
 1. Algorithms/Data Structures
 1. Web Architecture
 1. JavaScript
+1. Miscellaneous
+1. Practice
 
 ### Flashcards
 
