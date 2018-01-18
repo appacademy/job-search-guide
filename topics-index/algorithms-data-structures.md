@@ -1,37 +1,16 @@
-# Algorithms and Data Structures
+# Algorithms and Data Structures Resources
 
-## Basic Algorithms
+## Free Resources
 
-* simple recursive functions returning an array
-* merge sort - merge function
-* sorting algorithms
-* time complexity
-* space complexity
-* DFS, BFS
-* time complexity for BST, list operations
-* time complexity for arrays
+* [Geeks for Geeks](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+  * Recommended Sections: `Sorting and Searching`, `String/Array`, `Linked List`, `Graph`, `Tree/BST`, and `Dynamic Programming`.
+* [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+* [mycodeschool](https://www.youtube.com/user/mycodeschool)
+* [LeetCode](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
 
-## Basic Data Structures
+## Not Free, but worth it to buy at least one of these
 
-* queues (queue, dequeue)
-* stacks (pop, push)
-* 2D arrays, matrices
-* arrays, indexing, etc
-
-## Algorithms
-
-* Graph traversal algorithms
-* iterative deepening search (less memory than BFS)
-* topological sort
-* weighted graphs
-* dijkstra’s algorithm
-* spanning trees
-
-### Dynamic Programming
-
-## Data Structures
-
-* Graphs
-* Binary search trees
-* linked lists
-* priority queues
+* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=9FNTZX3ZS9CNZ3G6FKWG)
+* [Elements of Programming Interview in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=TQHBSX4PVKS6K9S3CD52)
+* [Interview Cake](https://www.interviewcake.com/)
