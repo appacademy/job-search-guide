@@ -8,6 +8,7 @@
 * [mycodeschool](https://www.youtube.com/user/mycodeschool)
 * [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
+* [Practice Thy Algorithms](https://github.com/jaysonvirissimo/practice-thy-algorithms)
 
 ## Not Free, but worth it to buy at least one of these
 
