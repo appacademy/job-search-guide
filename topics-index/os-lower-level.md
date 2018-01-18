@@ -1,5 +1,7 @@
 # Operating Systems and Lower Level
 
+The following are topics that you should become familiar with:
+
 * hexadecimal
 * threads
 * processes

@@ -26,3 +26,9 @@ Consistency is also highly important, which is why it's important to find a sust
 > _Knowledge and productivity are like compound interest. Given two people of approximately the same ability and one person who works 10% more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. I don’t want to give you a rate, but it is a very high rate. Given two people with exactly the same ability, the one person who manages day in and day out to get in one more hour of thinking will be tremendously more productive over a lifetime._
 
 With all that said, [let's get started!](./getting-started.md)
+
+## Quick Links to Resources
+
+* [Topics Index](./topics-index)
+* [Job Search Tracker Template](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=1459290541)
+* [Job Search Tracker Template (flexible version)](https://docs.google.com/spreadsheets/d/1WqIIEzu1B8qKmIhXWe0UssLTJlewg_IyhI_lwzwLvcw/edit#gid=0)

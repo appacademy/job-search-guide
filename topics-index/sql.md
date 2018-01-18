@@ -1,10 +1,5 @@
 # SQL
 
-* SQL
-* Select
-* Databases
-* WHERE
-* RDBMS
-* Sanitizing Inputs
-* String interpolation
-* prepared statements - not building a query string by hand, question marks is an example
+* [App Academy SQL curriculum](https://github.com/appacademy/curriculum/tree/master/sql)
+* [SQL Bolt Tutorial](https://sqlbolt.com/)
+* [SQL Zoo!](https://github.com/appacademy/curriculum/tree/master/sql/projects/sqlzoo)

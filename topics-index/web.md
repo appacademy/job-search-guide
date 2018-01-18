@@ -5,12 +5,17 @@
 * HTTP
 * REST
 * DOM
+* "What happens when..."
 
 ## Security
 
-* XSS
-* CSRF
-* SQL Injection
+* [XSS](https://www.acunetix.com/websitesecurity/cross-site-scripting/)
+* [CSRF](https://www.acunetix.com/websitesecurity/csrf-attacks/)
+* [SQL Injection](https://www.acunetix.com/websitesecurity/sql-injection/)
+* [Harvard lecture on security](https://www.youtube.com/watch?v=zlTVcNxg38c)
+
+### Other bonus topics worth familiarzing yourself with
+
 * Buffer Overflow
 * Stack Smashing
 * Rainbow Table Attacks, where hackers leverage pre-computed password hashes
