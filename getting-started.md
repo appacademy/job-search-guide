@@ -170,8 +170,3 @@ This will be especially helpful for your coaches to get a comprehensive picture 
 * [ ] Set up your 5-subect notebook
 * [ ] Make a copy of your own [job search tracker](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=0) into your own Google Drive
 * [ ] **Navigate to [Week 1](./weeks/01) to get started!**
-
-## Additional Resources
-
-* https://github.com/jwasham/coding-interview-university
-* https://www.topcoder.com/community/data-science/data-science-tutorials/
