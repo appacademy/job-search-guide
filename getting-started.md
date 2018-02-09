@@ -160,7 +160,7 @@ Each week, you'll also want to find a partner to pairboard with, as well as do a
 
 We'll be using this [job search tracker](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=0) to keep track of everything that we're doing.
 
-Here's an example of how a [filled-out tracker](https://docs.google.com/spreadsheets/d/1WYo1NbO5N9aZ1u3j7HwDmEUaM6OWixlo-ygH11ZY15g/edit#gid=632123073) might look like.
+Here's an example of how a [filled-out tracker](https://docs.google.com/spreadsheets/d/1WYo1NbO5N9aZ1u3j7HwDmEUaM6OWixlo-ygH11ZY15g/edit#gid=78468369) might look like.
 
 This will be especially helpful for your coaches to get a comprehensive picture of how your job search is going, and to see which areas they can provide support in.
 
