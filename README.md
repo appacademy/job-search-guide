@@ -17,7 +17,7 @@
 
 At this point, you're likely feeling burnt out. You just went through a grueling 13 weeks of a bootcamp that was designed to push you to the limits of what you're capable of learning in a short amount of time.
 
-At this point, what you **don't** want to do is to completely unwind and relax. Now, absolutely take a weekend to rejevuenate and rest up. But once you start the job search, you should strive to find that sweet spot of working the hardest you possibly can **at a sustainable pace**.
+At this point, what you **don't** want to do is to completely unwind and relax. Now, absolutely take a weekend to rejuvenate and rest up. But once you start the job search, you should strive to find that sweet spot of working the hardest you possibly can **at a sustainable pace**.
 
 That means that you should definitely take care of yourself: get enough rest, eat well, exercise often, do things that you enjoy. At the same time, that should be balanced with the same level of hard work that you had during the bootcamp. **The job search is the hardest part of this entire experience. It will require your maximum effort.**
 
