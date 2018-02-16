@@ -17,6 +17,9 @@
 
 ## Additional Resources
 
+* https://github.com/yangshun/tech-interview-handbook
+* https://github.com/yangshun/front-end-interview-handbook
+* https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
 * https://github.com/jwasham/coding-interview-university
 * https://www.topcoder.com/community/data-science/data-science-tutorials/
 * https://github.com/rlee0525/TechnicalConceptsForInterviews
