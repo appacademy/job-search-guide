@@ -167,6 +167,6 @@ This will be especially helpful for your coaches to get a comprehensive picture 
 ## Action Items
 
 * [ ] Download [Anki](https://apps.ankiweb.net/)
-* [ ] Set up your 5-subect notebook
+* [ ] Set up your 5-subject notebook
 * [ ] Make a copy of your own [job search tracker](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=0) into your own Google Drive
 * [ ] **Navigate to [Week 1](./weeks/01) to get started!**
