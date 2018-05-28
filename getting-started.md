@@ -156,17 +156,7 @@ Remember, every minute of the job search is crucial, so a timer just helps us tu
 
 Each week, you'll also want to find a partner to pairboard with, as well as do a practice session on [Pramp](https://www.pramp.com/).
 
-## Job Search Tracker
-
-We'll be using this [job search tracker](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=0) to keep track of everything that we're doing.
-
-Here's an example of how a [filled-out tracker](https://docs.google.com/spreadsheets/d/1WYo1NbO5N9aZ1u3j7HwDmEUaM6OWixlo-ygH11ZY15g/edit#gid=78468369) might look like.
-
-This will be especially helpful for your coaches to get a comprehensive picture of how your job search is going, and to see which areas they can provide support in.
-
 ## Action Items
 
 * [ ] Download [Anki](https://apps.ankiweb.net/)
 * [ ] Set up your 5-subect notebook
-* [ ] Make a copy of your own [job search tracker](https://docs.google.com/spreadsheets/d/1cSYFS8h4DaWq98zMB8R2ou133WnxPE1_5vD3vUeomj0/edit#gid=0) into your own Google Drive
-* [ ] **Navigate to [Week 1](./weeks/01) to get started!**
