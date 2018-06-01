@@ -18,20 +18,22 @@
   * An intracity network - Weight directed graph (there will be some one-ways inside of a city)
 
 ### What are the specific attributes that graphs can have, and how do we talk about them?
-* Self loop. A node can have an edge that goes to itself 
-* Multi-edge 
+* **Self loop**. A node can have an edge that goes to itself 
+* **Multi-edge** 
   * There may be multiple flights from one city to another with different costs
-* If a graph contains no self-loop or multi-edge, it is called a "Simple Graph" 
+* If a graph contains no self-loop or multi-edge, it is called a **Simple Graph** 
 * What is the maximum number of edges in a simple graph?
   * In a directed graph, `N * (N - 1)`
+    * Every node has an edge to every other node **except itself**
   * In an undirected graph, `N * (N - 1) / 2`
+    * Every 2 vertices have one _mutual_ edge 
 * A Graph is called `Dense` if number of edges is close to maximum (on the order of square of vertices)
-  * We store a dense graph in an adgency matrix
+  * We store a dense graph in an `adgency matrix`
 * A graph is called `Sparse` if a number of edges is closer to the number of Vertices.
-  * We store a sparse graph in an adgency list 
+  * We store a sparse graph in an `adgency list` 
 * `Path` is a sequence of vertices where each adjacent pair is connected by an edge 
 * `Simple Path` a path in which no vertices (and thus no edges) are repeated. 
-> In graph theory, there is inconsistency with the word "path". Many say a Walk is any sequence of vertices. A path is when no vertices are repeated. A trail is a walk where no edges are repeated 
+> In graph theory, there is inconsistency with the word "path". Many say a Walk is _any_ sequence of vertices. A path is when no **vertices** are repeated. A trail is a walk where no **edges** are repeated 
 * A graph is called `strongly connected` if there is a path from any vertex to any other vertex (Directed Graph)
 * A graph is called `connected` if it is undirected 
 * If a directed graph is not strongly connected, but can be turned into an undirected graph, it is considered `weakly connected`
@@ -45,22 +47,25 @@
   * Vertex List
   * Edge List
 * An edge is identified by its two endpoints. An edge is an object with two fields, so we can create an object 
-  ```c
-  struct Edge 
-  {
-    char *startVertex;
-    char *endVertex;
-  };
+  ```ruby
+  class Edge 
+    attr_reader :start_vertex, :end_vertex
+
+    def initialize(start_vertex, end_vertex)
+        @start_vertex = start_vertex
+        @end_vertex = end_vertex
+    end
+  end
   ```
 #### Space Complexity
-* The space complexity of storing the Vertex List would be `O(|v|)`
-* When storing edges, you must keep a reference to the vertex. One way to do this would be to keep reference to the position (index) of those edges. Space complexity would be `O(|e|)`
-* Total Space: `O(|v| + |e|)`
+* The space complexity of storing the Vertex List would be `O(V)`
+* When storing edges, you must keep a reference to the vertex. One way to do this would be to keep reference to the position (index) of those edges. Space complexity would be `O(E)`
+* Total Space: `O(V + E)`
 #### Time Complexity
 * How much time will you take to find all nodes adgacent to a given node? 
-  * Running time for this operation would be `O(|e|)`
+  * Running time for this operation would be `O(E)`
 * Check if given nodes are connected 
-  * Also `O(|e|)`
+  * Also `O(E)`
   * Remember that the number of edges is on the order of `v^2`
 
 The takeaway is that this way of storing a graph is **not** very efficient!
