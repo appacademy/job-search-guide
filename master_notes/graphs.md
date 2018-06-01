@@ -18,8 +18,8 @@
   * An intracity network - Weight directed graph (there will be some one-ways inside of a city)
 
 ### What are the specific attributes that graphs can have, and how do we talk about them?
-* Self loop. A node can have an edge that goes to itself 
-* Multi-edge 
+* Self loop: When a node can have an edge that goes to itself 
+* Multi-edge: Multiple edges from one vertex to another, often with different weights
   * There may be multiple flights from one city to another with different costs
 * If a graph contains no self-loop or multi-edge, it is called a "Simple Graph" 
 * What is the maximum number of edges in a simple graph?
