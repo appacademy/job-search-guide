@@ -1,7 +1,7 @@
 # Graphs
 
 ### How do we define a graph, and where are they commonly used?
-* In a tree with N node, we always have exactly N - 1 edges. Every node except the root node has exactly 1 parent. 1 possible path from root to any particular node
+* In a tree with N nodes, we always have exactly N - 1 edges. Every node except the root node has exactly 1 parent. 1 possible path from root to any particular node
 * a Graph G is an ordered pair of a set V of vertices and a set E of edges 
   * Set of vertices: `{ V1, V2, V3, V4, V5, V6, V7 }`
   * Set of edges: `{ {V1, V2}, {V2, V3}, {V4, V2} }`
