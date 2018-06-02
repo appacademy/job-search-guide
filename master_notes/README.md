@@ -9,3 +9,4 @@ Welcome to the open-source repository of notes for all the topics covered in thi
 * [React](./react)
 * [System Design](./system_design)  
 * [Graphs](./graphs)  
+* [REST](./rest)
