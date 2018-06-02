@@ -3,15 +3,15 @@
 
 ### Fielding Constraints (by Roy Fielding who coined REST)
 > Fielding Constraints describe what must be present for a system to be RESTful
-#### Client-Server 
+#### 1. Client-Server 
 * The network must be made up of servers (computer that has resources) and clients (computer that interacts with server's resources)
 
-#### Stateless
+#### 2. Stateless
 * Server's and clients do not need to keep track of each other's state
   * When a client is not interacting with the server, the server has no idea of its existence
 * The server does **not** keep track of past requests 
 
-#### Uniform Interface 
+#### 3. Uniform Interface 
 * There must be a common language between servers and clients
 * This allows parts to be swapped without breaking the system
 * Sub-constraints: 
