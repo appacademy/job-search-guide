@@ -2,6 +2,7 @@
 > **Re**presentational **S**tate **T**ransfer - A set of design principles for making network communication more scalable and flexible
 
 ### Fielding Constraints (by Roy Fielding who coined REST)
+> Fielding Constraints describe what must be present for a system to be RESTful
 #### Client-Server 
 * The network must be made up of servers (computer that has resources) and clients (computer that interacts with server's resources)
 
