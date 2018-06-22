@@ -1,6 +1,6 @@
 # Job Search Guide
 
-**If this is your first time here, read the rest of this README before navigating to the weeks.**
+### **If this is your first time here, read the rest of this README before navigating to the weeks.**
 
 * [Week 1](./weeks/01)
 * [Week 2](./weeks/02)
@@ -12,6 +12,14 @@
 * [Week 8](./weeks/08)
 
 **Purpose**: This repository is a guide for the first 8 weeks of your job search. It provides recommendations on how you should think about your job search, how you should organize your time, and what you should be working on and studying.
+
+**Approach**: Every day, you will have a set of readings which start with a large set of **_Learning Goals_**. As you make your way through the work, these Learning Goals are meant to serve as guidance, and outline important points you are supposed to learn. **Our recommendation is that you make flash cards out of each learning goal. As you complete the material, fill in the answers to each flash card when you come across it.**
+
+At the end of the week, you will be emailed an exam through **Hacker Rank**. We use these exams to track student progress throughout this guide, and determine parts of our guide that may need more attention. On the README for that last two days of each week, you will see a **practice exam** at the bottom of the page. This is meant to give you a preview of what to expect on the official exam, and show you which areas you may want to review before you commit to taking the full test that we send you. 
+
+On a weekly basis, this should be your workflow:
+
+`Read daily learning goals --> Readings and Videos reinforce learning goals --> Make flashcards with learning goals --> Take practice test --> Take Hacker Rank Test`
 
 ## Mindset
 
