@@ -12,7 +12,7 @@ The graph below is strongly connected since a path exists between all pairs of v
 
 ## Solution
 
-The naive approach to this problem is to perform a DFS or BFS starting from each node, build an array of connected nodes, and checking to see whether the search visits each vertex in the graph. However, the time complexity of this approach is ```O(n(n + m))```, where ```n``` is the number of vertices and ```m``` is the number of edges in the graph. We can do better.
+The naive approach to this problem is to perform a DFS or BFS starting from each node, build an array of connected nodes, and check to see whether the search visits each vertex in the graph. However, the time complexity of this approach is ```O(n(n + m))```, where ```n``` is the number of vertices and ```m``` is the number of edges in the graph. We can do better.
 
 We can say that a graph is strongly connected if:
 
@@ -49,13 +49,6 @@ class Edge
 
     to_vertex.in_edges << self
     from_vertex.out_edges << self
-  end
-
-  def destroy!
-    self.to_vertex.in_edges.delete(self)
-    self.to_vertex = nil
-    self.from_vertex.out_edges.delete(self)
-    self.from_vertex = nil
   end
 end
 
@@ -112,6 +105,10 @@ class Graph
   end
 end
 ```
+
+### Time Complexity
+
+```O(n + m)```
 
 ## Credit
 
