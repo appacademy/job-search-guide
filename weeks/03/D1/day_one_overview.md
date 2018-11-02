@@ -1,18 +1,15 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- What are the constraints of (any type of) Heap?
+- What type of Data Structure might we use to implement a heap?
+- What is the formula for getting the left child of a Heap root node? Right child?
+- What is a Priority Queue?
+- What is an `XMLHttpRequest`?
+- What's the difference between the `DOMContentLoaded` and `load` event triggers?
 
 ## Practice
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
+**The learning goals are designed so that they can be used as Flash Card questions. If you haven't already, make these learning goals into Flash Cards. Practice for at least 30 minutes today.**
 
 ### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
 * Do 1 Leetcode or Hackerrank Problem

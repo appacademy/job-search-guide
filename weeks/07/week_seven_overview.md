@@ -1,20 +1,23 @@
+## Things You'll Cover This Week
+  - Linked Lists
+    - Detecting Cycles
+    - Mergesort
+  - CSS and HTML Review
+  - Designing Twitter
+  - Hadoop
+  - React Context
+  - React
+    - Imperative vs. Declarative
+    - Compound Components
 
-## Today's Learning Goals:
+#### Node Project
+    - Chat App
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+## Practice Everyday
 
-## Practice
+**Everday day you'll be learning new things, and keeping track of all the Learning Goals. The most important thing to do at the end of each day though is review! The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes a day.**
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
-
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills up to date. 
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 
@@ -26,7 +29,7 @@ Here are some suggestions on what you could be working on:
 1. **New projects**- Once your existing projects are in great shape, start building out new projects. Start with smaller-scale projects, and over time, add more features to them. (**Unfinished projects are not a bad thing, as long as you are learning from them!**)
 1. **Coding Challenges**- All throughout, be sure to put in a sufficient amount of time to coding challenges; always go above and beyond, especially for companies that you really want to work at.
 
-## Network and Apply
+## Make Sure you Network and Apply EVERYDAY
 
 * Reach out to 2 people
 * Apply to 5 jobs

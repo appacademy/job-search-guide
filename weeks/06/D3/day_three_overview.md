@@ -1,20 +1,18 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- Explain the syntax `flex: 1, flex: 2`, etc.
+- What is the default value of `align-items` in the flex world?
+- What is `flex-basis`?
+- Explain `flex-wrap`.
+- what is `margin: auto` used for?
+- Explain the decision to use 7 characters for the tinyURL
+- How do you turn a random number between 1 and 3.5 trillion into a 7 character string?
+- What is the downside to generating a random string, checking the our DB and putting the string in if it doesn't exist in the DB?
+- What is the downside to generating a random string, putting it into our DB, and then checking if another string in our DB matches it?
 
-## Practice
+## Update and Practice 30 minutes of Flashcards
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
-
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

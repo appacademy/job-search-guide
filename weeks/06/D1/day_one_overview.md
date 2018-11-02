@@ -1,20 +1,21 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- What are the steps to detecting a cycle in a graph?
+- What is currying?
+- What extra features do you get when using lodash.curry?
+- Why might you use currying?
+- What is the rationale for writing services?
+- What are the 9 areas of inquiry that you you should define froma high level before diving into implementation?
+- compare ACID vs. BASE
+- What is consistent hashing?
+- What is optimistic vs. pessimistic locking?
+- What is strong vs. eventual consistency?
+- Compare and contrast SQL vs. NoSQL vis a vis the above
+- Why is caching important in system design?
 
-## Practice
+## Update and Practice 30 minutes of Flashcards
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
-
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

@@ -1,18 +1,19 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- What is a base case in recursion? Why do we need one? _Do_ we always need one?
+- What exactly is a Stack Overflow?
+- Describe _direct_ and _indirect_ recursion
+- What are the common HTTP methods? When are they used, and what do they accomplish? (This is a big one)
+- In which phase does hoisting occur?
+- What is the difference between function hoisting and variable hoisting?
+- What is a state tree in the context of Redux?
+- Why don't we want to modify (i.e. mutate) our redux state?
+- What is a pure function? Impure function?
+- Describe in detail what a redux reducer is. What makes it a pure function?
 
 ## Practice
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
+**The learning goals are designed so that they can be used as Flash Card questions. If you haven't already, make these learning goals into Flash Cards. Practice for at least 30 minutes today.**
 
 ### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
 * Do 1 Leetcode or Hackerrank Problem

@@ -1,20 +1,15 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- What are the steps for Counting Sort? What is the time complexity?
+- What problem does `bind` solve in Javascript? How does it accomplish this?
+- What is the syntax for passing arguments to the `bind` function?
+- What are the different type of SQL Joins?
+- What is the difference between an Inner Join and a Left Join?
 
-## Practice
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
+## Update and Practice 30 minutes of Flashcards
 
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

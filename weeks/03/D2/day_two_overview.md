@@ -1,20 +1,17 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- What is the time-complexity of Heap Sort?
+- What are the steps for Heap Sort?
+- When are two pages considered to have the same `origin`?
+- How might you allow cross-origin resource sharing?
+- What is `CORS`?
+- Discuss the differences between `let`, `const`, and `var`. What are their respective scopings?
+- Explain `Context` in React 
+- What does the `<Provider>` component do?
 
-## Practice
+## Update and Practice 30 minutes of Flashcards
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
-
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

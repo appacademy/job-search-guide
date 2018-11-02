@@ -1,20 +1,16 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- Explain Kruskal's Minimum Spanning Tree algorithm. What algorithm does this remind you of? What's the difference?
+- Explain `floats` and `clears`.
+- Explain the clearfix
+- What is a Trie?
+- What might you want to store in each node in your Trie?
+- How do you handle it when your Trie becomes too large to be stored on one machine?
+- How would you collect and update the top results for a certain node in the Trie?
 
-## Practice
+## Update and Practice 30 minutes of Flashcards
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
-
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

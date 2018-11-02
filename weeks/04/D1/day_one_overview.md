@@ -1,20 +1,18 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- What are the constraints of a Binary Search Tree?
+- What is the big O lookup time for a value in a binary search tree?
+- Does JS assign variables by value or by reference?
+- What is Round Robin DNS binding?
+- What issue arises regarding sessions when implementing a Load Balancer?
+- What is striping when talking about writing to a Hard drive?
+- What is RAID and what functionality can it give you?
+- What is a symbol when talking about transmitting data?
+- How is information transmitted over wireless signal?
 
-## Practice
+## Update and Practice 30 minutes of Flashcards
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
-
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

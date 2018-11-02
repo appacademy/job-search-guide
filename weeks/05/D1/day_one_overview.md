@@ -1,20 +1,20 @@
-
 ## Today's Learning Goals:
 
-- Give an example of a use-case for Topological Sort 
-- What is a difference between Topological Sort and DFS?
-- On which types of Graphs can we do a topological sort?
-- What data structure do we use to assist with the topological sort algorithm?
-- Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
-- What is the syntax for an IIFE?
-- Give one explanation for why we have to make AJAX requests in `componentDidMount`
+- Why is binary search logarithmic time?
+- If an element is smaller than its right neighbors, explain why there is definitely a peak to the right.
+- What is a Promise?
+- what arguments does the Promise object take?
+- what arguments does the resolve function take?
+- What arguments does .then take?
+- explain .then in the context of the callback queue
+- Top 10 ways to speed up a website
+- Why is FTP a bad idea?
+- What kinds of information is at risk when comunicating over HTTP?
+- Why should you ensure that files on a web server are not being executed by root?
 
-## Practice
+## Update and Practice 30 minutes of Flashcards
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
-
-### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
+### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 
