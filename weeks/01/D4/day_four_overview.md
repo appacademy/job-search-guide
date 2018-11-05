@@ -3,14 +3,19 @@
 
 - What are the steps for BFS on a graph? 
 - Why do we need a DNS?
+* How does DNS work?
 - Is Javascript a single-threaded language? Explain (Hint: This may not be a yes or no question)
 - In which order do the React Lifecycle methods (including the optional ones) run?
 - In which lyfecycle methods should you make asynchronous fetches for data?
 - In which lyfecycle methods can you call `setState`?
+- What lifecycle methods get called in the mounting phase? What are the use cases for each of those methods?
 
 ## Practice
 
+* **UPDATE EXISTING CARD** What's the event loop? How does it work?
+
 **The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
+
 
 ### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
 * Do 1 Leetcode or Hackerrank Problem

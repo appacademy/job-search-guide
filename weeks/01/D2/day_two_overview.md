@@ -15,6 +15,12 @@
 
 **The learning goals are designed so that they can be used as Flash Card questions. Practice with flashcards for at least 30 minutes each day.**
 
+
+* **UPDATE EXISTING CARD** Explain the different ways that graphs can be represented. What are the pros and cons of various ways of representing graphs.
+* **UPDATE EXISTING CARD** What does it mean to be RESTful?
+* What's a closure? How are they used?
+* Give a high level overview of how CSS grids work.
+
 ### Keep your algorithm and whiteboarding skills sharp. 
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem

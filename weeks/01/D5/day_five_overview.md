@@ -6,8 +6,9 @@
 - On which types of Graphs can we do a topological sort?
 - What data structure do we use to assist with the topological sort algorithm?
 - Explain TCP, and why it is a necessary protocol
-- When is using an IIFE necessary? 
+- What's an IFFE? When would you use it?
 - What is the syntax for an IIFE?
+- What lifecycle methods get called in the update phase? What are the use cases for each of those methods? What method gets called in the unmounting phase?
 - Give one explanation for why we have to make AJAX requests in `componentDidMount`
 
 ## Practice
