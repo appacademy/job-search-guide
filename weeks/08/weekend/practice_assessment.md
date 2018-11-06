@@ -26,11 +26,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * F) `.concat` returns a new array
   * G) `+=` on a String returns a new object
 
-
 ---
 ## No Peeking!
 
-### Answer Key
-1) C, D
-2) B, D
-3) B, D, E
+* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/08/weekend/answer_key.md')

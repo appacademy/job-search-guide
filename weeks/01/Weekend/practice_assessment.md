@@ -123,4 +123,4 @@ Make an honest effort with these problems. An answer key is at the bottom of the
 ---
 ## No Peeking!
 
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/02/weekend/answer_key.md')
+* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/01/weekend/answer_key.md')

@@ -64,12 +64,4 @@ Make an honest effort with these problems. An answer key is at the bottom of the
 ---
 ## No Peeking!
 
-### Answer Key
-1) A, C, E
-2) A, B, D, F
-3) B, C
-4) B, C, E
-5) A, D
-6) A, B, D, F
-7) B
-8) E, F
+* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/06/weekend/answer_key.md')

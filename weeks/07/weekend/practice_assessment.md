@@ -43,8 +43,4 @@ Make an honest effort with these problems. An answer key is at the bottom of the
 ---
 ## No Peeking!
 
-### Answer Key
-  1) A, B, G
-  2) C
-  3) B, E, F, G
-  4) A, D
+* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/07/weekend/answer_key.md')
