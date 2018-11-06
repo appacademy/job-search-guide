@@ -120,17 +120,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * F) Kahn's algorithm can always be completed without concern for which nodes we have seen before, but DFS Sort cannot
   * G) DFS Topological Sort must be done recursively
 
+---
+## No Peeking!
 
-
-
-> **Answer Key**
-1. A
-2. B, E
-3. A, B, E, H
-4. B, D
-5. A, D
-6. B, H, I
-7. D
-8. B, E
-9. A, D, F
-10. A, C, D, E
+* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/02/weekend/answer_key.md')

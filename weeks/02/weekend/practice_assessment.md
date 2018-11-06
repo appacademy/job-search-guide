@@ -162,17 +162,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * C) HTTPS relies on asymmetric key cryptography for encrypting the actual data you send in your request
   * D) Asymmetric Key exchange usually relies on a Certificate Authority to certify public keys
 
+---
+## No Peeking!
 
-
-
-> **Answer Key**
-1. C
-2. B
-3. B, E, G, H, K
-4. D, E
-5. A, D
-6. B, D, E
-7. A
-8. D
-9. ALL CORRECT
-10. A, D
+* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/02/weekend/answer_key.md')
