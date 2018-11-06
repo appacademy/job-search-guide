@@ -119,8 +119,3 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * E) DFS Topological Sort prepends nodes with no unvisited children onto the output
   * F) Kahn's algorithm can always be completed without concern for which nodes we have seen before, but DFS Sort cannot
   * G) DFS Topological Sort must be done recursively
-
----
-## No Peeking!
-
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/01/weekend/answer_key.md')

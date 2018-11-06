@@ -79,9 +79,3 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * G) It is possible to overload methods in Ruby, and the right method will be chosen based on the arguments signature
   * H) Dynamically typed languages check at compile-time whether an object can call a certain method
   * I) Classes are instances of an object in Ruby
-
-
----
-## No Peeking!
-
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/05/weekend/answer_key.md')

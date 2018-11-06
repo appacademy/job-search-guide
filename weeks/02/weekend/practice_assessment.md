@@ -161,8 +161,3 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * B) Symmetric key exchange in the clear is sufficient to stop Man in the Middle attacks because the subsequent messages you send will be encrypted.
   * C) HTTPS relies on asymmetric key cryptography for encrypting the actual data you send in your request
   * D) Asymmetric Key exchange usually relies on a Certificate Authority to certify public keys
-
----
-## No Peeking!
-
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/02/weekend/answer_key.md')

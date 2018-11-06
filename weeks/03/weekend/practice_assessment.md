@@ -101,8 +101,3 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * D) aggregate functions are unavailable in a WHERE clause
   * E) Nested queries cannot use the HAVING clause
 
-
----
-## No Peeking!
-
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/03/weekend/answer_key.md')

@@ -193,9 +193,3 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * C) `let` and `const` can be defined on the global object as long as you do so in the highest scope
   * D) The global object can be used to access information about the visual layout of the window
 
-
----
-
-## No Peeking!
-
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/04/weekend/answer_key.md')

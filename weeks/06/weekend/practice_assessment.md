@@ -60,8 +60,3 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * E) Websockets are initilaized using the HTTP protocol
   * F) Websockets use framing to ensure accurate receipt of messages
 
-
----
-## No Peeking!
-
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/06/weekend/answer_key.md')
