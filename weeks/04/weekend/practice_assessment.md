@@ -1,6 +1,6 @@
 # 🚨 Practice Test 🚨 
 
-Welcome to the end of Week 4! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be sent to your email address. The first step is to work through this practice test to have an idea of what to expect on the HackerRank exam.
+Welcome to the end of Week 4! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be in the following task. The first step is to work through this practice test to have an idea of what to expect on the HackerRank exam.
 
 Before you dive into the HackerRank test, it's important to review. We use the HackerRank test results to gauge your progress in the job search guide, so you'll want to make sure you are as prepared as possible. If you struggle on this practice exam, be sure to review flash cards!
 
@@ -195,14 +195,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
 
 
 ---
+
 ## No Peeking!
 
-### Answer Key
-1) A, C, D
-2) A, C, D, F
-3) A, E, F
-4) B
-5) A
-6) D
-7) C, F
-8) B, D
+* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/04/answer_key.md')

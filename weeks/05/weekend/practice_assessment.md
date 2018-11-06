@@ -1,6 +1,6 @@
 # 🚨 Practice Test 🚨 
 
-Welcome to the end of Week 5! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be sent to your email address. The first step is to work through this practice test to have an idea of what to expect on the HackerRank exam.
+Welcome to the end of Week 5! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be in the following task. The first step is to work through this practice test to have an idea of what to expect on the HackerRank exam.
 
 Before you dive into the HackerRank test, it's important to review. We use the HackerRank test results to gauge your progress in the job search guide, so you'll want to make sure you are as prepared as possible. If you struggle on this practice exam, be sure to review flash cards!
 

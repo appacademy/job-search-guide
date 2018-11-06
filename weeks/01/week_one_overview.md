@@ -5,7 +5,7 @@ I repeat - doing nothing is the **worst** thing you could do right now. Now it i
 
 This guide exists to strengthen your interviewing skills and your overall knowledge of computer science. The guide is broken down into day by day topics and activities to perform to get you a job as quickly as possible. 
 
-At the end of each week you will be emailed a HackerRank link with an assessment based on the topics from the week you just covered. That assessment will be a great way to track how well you've grasped the topics so far and what you need to improve on. Make sure you review your flashcards and notes and practice each weekend before taking the weekly assessment. 
+At the end of each week you will find a HackerRank link with an assessment based on the topics from the week you just covered. That assessment will be a great way to track how well you've grasped the topics so far and what you need to improve on. Make sure you review your flashcards and notes and practice each weekend before taking the weekly assessment. 
 
 ## Practice Everyday
 

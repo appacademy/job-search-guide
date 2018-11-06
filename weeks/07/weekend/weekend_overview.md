@@ -8,9 +8,9 @@
 
 # 🚨 Practice Test 🚨 
 
-Welcome to the end of Week 7! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be sent to your email address.
+Welcome to the end of Week 7! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be the last task of this section..
 
-## Update and Practice 30 minutes of Flashcards
+## Update and Practice 30 minutes of Flashcards Each Day
 
 ### Practice Alogrithms
 * Do 1 Leetcode or Hackerrank Problem

@@ -1,24 +1,24 @@
 
 ## Weekend's Learning Goals:
 
-- [ ] Explain the steps of Djikstra shortest-path algorithm.
-- [ ] What is the time complexity of Djikstra's algorithm?
-- [ ] What is a _datagram_?
-- [ ] What are the benefits of UDP over TCP? What are the shortcomings?
-- [ ] What is the risk we face when using `==` vs `===`?
-- [ ] _When_ is the value of `this` evaluated?
-- [ ] How does `use strict` affect the value of `this`?
-- [ ] Without `use strict`, what is the value of `this` inside a named or anonymous function? 
-- [ ] What is the value of `this` in method style syntax?
+- Explain the steps of Djikstra shortest-path algorithm.
+- What is the time complexity of Djikstra's algorithm?
+- What is a _datagram_?
+- What are the benefits of UDP over TCP? What are the shortcomings?
+- What is the risk we face when using `==` vs `===`?
+- _When_ is the value of `this` evaluated?
+- How does `use strict` affect the value of `this`?
+- Without `use strict`, what is the value of `this` inside a named or anonymous function? 
+- What is the value of `this` in method style syntax?
 
 
 # 🚨 Study for then Weekly Assesment 🚨 
 <!-- Todo: Figure out hackerrank thing -->
-Welcome to the end of Week 1! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be sent to your email address. 
+Welcome to the end of Week 1! The next step is to double down on what you've learned, and prepare for the HackerRank test that will be the last task of this section.
 
 ## Practice
 
-**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes today.**
+**The learning goals are designed so that they can be used as Flash Card questions. Practice for at least 30 minutes each day.**
 
 ### Besides Reviewing your flash cards it is also important to keep your algorithm and whiteboarding skills sharp. 
 * Do 1 Leetcode or Hackerrank Problem
