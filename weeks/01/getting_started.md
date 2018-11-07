@@ -10,7 +10,7 @@ The 4 key domains of a job search are:
 * Studying
 * Coding
 * Networking/Applying
-* Practicing
+* Practicing 
 
 ### Studying
 
