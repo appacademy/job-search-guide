@@ -5,4 +5,4 @@
 * [Day 3](./D3/03.md)
 * [Day 4](./D4/04.md)
 * [Day 5](./D5/05.md)
-* [Day 6-7](./Weekend/06-07.md)
+* [Day 6-7](./weekend/06-07.md)
