@@ -1,4 +1,4 @@
-### Web
+## Web
 
 So far, you may only be familiar with SQL (relational) databases. Today's reading is meant to introduce you to the debate between NoSQL, SQL, and its advantages disadvantages
 

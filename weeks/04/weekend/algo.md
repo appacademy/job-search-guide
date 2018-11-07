@@ -1,4 +1,4 @@
-### Algos
+## Algorithms
 
 Get some good interview practice and build a Linked List class.
 

@@ -1,4 +1,4 @@
-### Algorithms
+## Algorithms
 
 Finish up Dynamic Programming! You are the master now 👩‍🍳
 

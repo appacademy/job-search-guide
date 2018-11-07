@@ -1,4 +1,4 @@
-### JavaScript
+## JavaScript
 
 We'll be spending this week on the below project.
 

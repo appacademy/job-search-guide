@@ -1,4 +1,4 @@
-### Web
+## Web
 
 Ever wondered how a blockchain worked? Check out this explanation!
 

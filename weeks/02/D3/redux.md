@@ -1,3 +1,5 @@
-### Indepth Redux
+## Indepth Redux
 
-* [Redux](https://egghead.io/courses/getting-started-with-redux) - "**Avoid Array Mutations**" through "**Writing a ToDo List Reducer**"
+Watch "**Avoid Array Mutations**" through "**Writing a ToDo List Reducer**".
+
+* [Redux](https://egghead.io/courses/getting-started-with-redux)

@@ -1,3 +1,5 @@
-### Indepth Redux
+## Indepth Redux
 
-* [Redux](https://egghead.io/courses/getting-started-with-redux) - "**React ToDo List Example**" through "**Extracting Presentational Components (Todo, TodoList)**"
+Watch "**React ToDo List Example**" through "**Extracting Presentational Components (Todo, TodoList)**".
+
+* [Redux](https://egghead.io/courses/getting-started-with-redux)

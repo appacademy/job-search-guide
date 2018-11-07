@@ -14,7 +14,7 @@
 
 ## Update and Practice 30 minutes of Flashcards
 
-### Practice Alogrithms
+### Practice Algorithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

@@ -1,4 +1,4 @@
-### JavaScript
+## JavaScript
 
 The "Event Loop" is an extremely unique feature of javascript, and one of the reasons why it is such a powerful client-side language. Philip Roberts is a Javacsript developer with only a few years of experience; he breaks down this concept in a fun and easy to understand presentation. 
 

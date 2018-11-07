@@ -1,4 +1,4 @@
-### JavaScript
+## JavaScript
 
 Read the 'Advanced Currying Implementation'.
 

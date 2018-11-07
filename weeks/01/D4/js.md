@@ -1,4 +1,4 @@
-### JavaScript
+## JavaScript
 
 Continue to watch and read about the event loop. It's ok if you didn't understand it right away -- watch until it clicks!
 

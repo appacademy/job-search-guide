@@ -16,7 +16,7 @@ Welcome to the end of Week 3! The next step is to double down on what you've lea
 
 ## Update and Practice 30 minutes of Flashcards Each Day
 
-### Practice Alogrithms
+### Practice Algorithms
 * Do 1 Leetcode or Hackerrank Problem
 * Do 1 whiteboarding problem
 

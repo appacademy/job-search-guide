@@ -1,4 +1,4 @@
-### JavaScript
+## JavaScript
 
 Type-checking and `this` are two finicky concepts in Javascript. These light readings will help you master them:
 

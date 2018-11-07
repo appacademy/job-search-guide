@@ -1,4 +1,4 @@
-### Algorithms
+## Algorithms
 
 Graphs are a critical data structure in the programming industry. Today's videos are an introduction. Respectively, they cover:
 

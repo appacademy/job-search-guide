@@ -1,4 +1,4 @@
-### Web
+## Web
 
 Up until now, the way our browser's work may have been a mystery. While you may understand the MVC framework of a website, understanding how "the internet" brings us to that website is a completely different topic. This great article will begin to break down the nitty-gritty of our browser requests!
 
