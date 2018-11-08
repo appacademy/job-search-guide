@@ -13,7 +13,7 @@
     - Controlled Custom Components
 
 #### MERN Project
-    - Blog Party USA
+* Blog Party USA
 
 ## Practice Everyday
 
