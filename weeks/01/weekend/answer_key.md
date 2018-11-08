@@ -1,21 +1,21 @@
 ## Answer Key
 
-1. A
+1.) A
 
-2. B, E
+2.) B, E
 
-3. A, B, E, H
+3.) A, B, E, H
 
-4. B, D
+4.) B, D
 
-5. A, D
+5.) A, D
 
-6. B, H, I
+6.) B, H, I
 
-7. D
+7.) D
 
-8. B, E
+8.) B, E
 
-9. A, D, F
+9.) A, D, F
 
-10. A, C, D, E
+10.) A, C, D, E
