@@ -7,17 +7,17 @@ Before you dive into the HackerRank test, it's important to review. We use the H
 Make an honest effort with these problems. An answer key is at the bottom of the page, but try and review your notes and readings before referring to these. 
 
 
-1. Choose the correct statement(s) about designing a Messaging Service or Uber
+1.) Choose the correct statement(s) about designing a Messaging Service or Uber
   * A) When you design a message service with multiple application servers, you don't need a database for unread messages because these messages can be expected to live in server memory
   * B) Service Oriented architecture refers to having dedicated servers to serve web pages to customers.
   * C) Provisioning an SOA is often done with dockerized environments that contain all the system dependencies
   * D) Canary testing refers to allowing a small amount of production traffic onto a system that is being tested
-2. Choose the correct statements about Dynamic Programming problems
+2.) Choose the correct statements about Dynamic Programming problems
   * A) Longest Common Subsequence and Edit Distance both rely on overlapping subproblems that call for the minimum solution of the next shortest string
   * B) Longest Increasing Subsequence is solved by generating all the longest subsequences that terminate with each item in the input
   * C) Longest Increasing Subsequence and Edit Distance both memoize using a 2D matrix
   * D) Minimum Partition Sum Difference problem requires trying to generate all possible sums up to the sum of the entire set in a matrix
-3. Choose the correct statement(s) about Ruby
+3.) Choose the correct statement(s) about Ruby
   * A) Ruby is always pass by reference
   * B) When you point two variables at an object and then alter the object, both variables will reference the changed object
   * C) Modules must contain instance methods
