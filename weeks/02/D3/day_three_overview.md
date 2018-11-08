@@ -1,13 +1,6 @@
 
 ## Today's Learning Goals:
 
-- What is _tail call recursion_? Why is it helpful, if at all?
-- Discuss advantages/disadvantages of recursion
-- How is memory allocated during recursive function calls?
-- What does the `new` keyword do in Javascript?
-- What type of function is invoked with the `new` keyword? What does this function return?
-- What is the role of the store in Redux?
-- What does the `subscribe` method do in Redux?
 - What is the difference between Memoization and Tabulation?
 - Why is memoization helpful? 
 - What is the difference between HTTP and HTTPS

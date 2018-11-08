@@ -2,7 +2,7 @@
 
 - What is an `optimal substructure`? When might a problem have one?
 - What is the difference between `localStorage` and `sessionStorage`?
-- Why is it important that users cannot _modify_ their cookies?
+- Why is it important that users cannot ***modify*** their cookies?
 - When are cookies sent to the server?
 - What is event delegation?
 

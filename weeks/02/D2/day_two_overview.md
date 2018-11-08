@@ -1,6 +1,6 @@
 ## Today's Learning Goals:
 
-- What is _tail call recursion_? Why is it helpful, if at all?
+- What is ***tail call recursion***? Why is it helpful, if at all?
 - Discuss advantages/disadvantages of recursion
 - How is memory allocated during recursive function calls?
 - What does the `new` keyword do in Javascript?

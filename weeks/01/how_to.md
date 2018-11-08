@@ -8,7 +8,7 @@ That means that you should definitely take care of yourself: get enough rest, ea
 
 **Purpose**: This is a guide for the first 8 weeks of your job search. It provides recommendations on how you should think about your job search, how you should organize your time, and what you should be working on and studying.
 
-**Approach**: Every day, you will have a set of readings which start with a large set of **_Learning Goals_**. As you make your way through the work, these Learning Goals are meant to serve as guidance, and outline important points you are supposed to learn. **Our recommendation is that you make flash cards out of each learning goal. As you complete the material, fill in the answers to each flash card when you come across it.**
+**Approach**: Every day, you will have a set of readings which start with a large set of ***Learning Goals***. As you make your way through the work, these Learning Goals are meant to serve as guidance, and outline important points you are supposed to learn. **Our recommendation is that you make flash cards out of each learning goal. As you complete the material, fill in the answers to each flash card when you come across it.**
 
 On a weekly basis, this should be your workflow:
 

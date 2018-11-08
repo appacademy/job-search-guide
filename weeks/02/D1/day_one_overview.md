@@ -1,8 +1,8 @@
 ## Today's Learning Goals:
 
-- What is a base case in recursion? Why do we need one? _Do_ we always need one?
+- What is a base case in recursion? Why do we need one? ***Do*** we always need one?
 - What exactly is a Stack Overflow?
-- Describe _direct_ and _indirect_ recursion
+- Describe `direct` and `indirect` recursion
 - What are the common HTTP methods? When are they used, and what do they accomplish? (This is a big one)
 - In which phase does hoisting occur?
 - What is the difference between function hoisting and variable hoisting?
