@@ -81,7 +81,7 @@ Let's go through each part of the day in more detail.
 
 ### 2 Hours of Studying
 
-There's a vast amount of content that we have to master. Mastering the content means being able to clearly and cocisely explain the topics or solve the problems in an interview.
+There's a vast amount of content that we have to master. Mastering the content means being able to clearly and concisely explain the topics or solve the problems in an interview.
 
 In addition, we must also retain the content over time. In other words, if we mastered heap sort today, we can't forget about it in 2 weeks!
 
