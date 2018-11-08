@@ -33,9 +33,9 @@ During the job search, you should [always be coding](https://medium.com/always-b
 
 Here are some suggestions on what you could be working on:
 
-1. **Polishing or adding features to existing projects**- First prioritize polishing and adding features to existing projects.
-1. **New projects**- Once your existing projects are in great shape, start building out new projects. Start with smaller-scale projects, and over time, add more fatures to them. (**Unfinished projects are not a bad thing, as long as you are learning from them!**)
-1. **Coding Challenges**- All throughout, be sure to put in a sufficient amount of time to coding challenges; always go above and beyond, especially for companies that you really want to work at.
+* **Polishing or adding features to existing projects**- First prioritize polishing and adding features to existing projects.
+* **New projects**- Once your existing projects are in great shape, start building out new projects. Start with smaller-scale projects, and over time, add more fatures to them. (**Unfinished projects are not a bad thing, as long as you are learning from them!**)
+* **Coding Challenges**- All throughout, be sure to put in a sufficient amount of time to coding challenges; always go above and beyond, especially for companies that you really want to work at.
 
 ### Networking/Applying
 
@@ -51,10 +51,10 @@ Often times, job seekers will spend the majority of their time studying to make 
 
 Here are the different ways that we'll be practicing:
 
-1. Reviewing Anki flashcards
-1. Coding on Leetcode or Hackerrank
-1. Pair boarding
-1. Mock interviews on Pramp
+* Reviewing Anki flashcards
+* Coding on Leetcode or Hackerrank
+* Pair boarding
+* Mock interviews on Pramp
 
 ## Daily Schedule
 
@@ -64,18 +64,18 @@ To make sure that we can effectively and efficiently prepare, we'll be spending,
 
 **Average for each weekday:**
 
-1. 2 hours of studying
-1. 2.5 hours of practicing
-1. 2.5 hours of coding
-1. 2 hours of applying and networking
+* 2 hours of studying
+* 2.5 hours of practicing
+* 2.5 hours of coding
+* 2 hours of applying and networking
 
 Over the weekend, you have 2 days to cover the hours listed above.
 
 **Each week:**
 
-1. 1 Pramp
-1. 1 pairboarding session
-1. 1 networking event
+* 1 Pramp
+* 1 pairboarding session
+* 1 networking event
 
 Let's go through each part of the day in more detail.
 
@@ -87,18 +87,18 @@ In addition, we must also retain the content over time. In other words, if we ma
 
 Here's our strategy for mastering the large amount of content. Every day, we'll spend:
 
-1. 45 minutes studying algorithms
-1. 15 minutes studying web architecture and system design
-1. 20 minutes studying JavaScript
-1. 20 minutes studying other miscellaneous, but important, topics (such as React/Redux, SQL, Rails, Ruby, HTML/CSS, etc.)
+* 45 minutes studying algorithms
+* 15 minutes studying web architecture and system design
+* 20 minutes studying JavaScript
+* 20 minutes studying other miscellaneous, but important, topics (such as React/Redux, SQL, Rails, Ruby, HTML/CSS, etc.)
 
 The goal of studying is deep understanding of the topic at hand. I recommend getting a 5 subject notebook and organizing it like this:
 
-1. Algorithms/Data Structures
-1. Web Architecture
-1. JavaScript
-1. Miscellaneous
-1. Practice
+* Algorithms/Data Structures
+* Web Architecture
+* JavaScript
+* Miscellaneous
+* Practice
 
 Then, while you're reading the articles or watching the recommended videos, take great notes and prioritize truly learning the content.
 
@@ -125,9 +125,9 @@ That's why I believe in using [Anki flashcards](https://apps.ankiweb.net/). Anki
 
 **Anki does 3 things for us:**
 
-1. It gives us an avenue to practice explaining concepts out loud. Every day, you can treat each flashcard like an interview question, and practice answering it as if an interviewer had just posed it to you.
-1. It helps us with retention.
-1. It helps us effeciently learn and master a large amount of information through spaced repetition. Without spaced repetition, we might be trying to study 150 flash cards a day, but Anki will choose the ones that we previously struggled with or cards that we haven't seen in a while so that we only study the ones we need to.
+* It gives us an avenue to practice explaining concepts out loud. Every day, you can treat each flashcard like an interview question, and practice answering it as if an interviewer had just posed it to you.
+* It helps us with retention.
+* It helps us effeciently learn and master a large amount of information through spaced repetition. Without spaced repetition, we might be trying to study 150 flash cards a day, but Anki will choose the ones that we previously struggled with or cards that we haven't seen in a while so that we only study the ones we need to.
 
 #### 1 Leetcode or Hackerrank Problem (1 hour)
 
