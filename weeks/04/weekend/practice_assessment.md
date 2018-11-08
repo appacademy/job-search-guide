@@ -6,7 +6,7 @@ Before you dive into the HackerRank test, it's important to review. We use the H
 
 Make an honest effort with these problems. An answer key is at the bottom of the page, but try and review your notes and readings before referring to these. 
 
-1.) Choose the correct statement(s) about BSTs
+1. 1.) Choose the correct statement(s) about BSTs
   * A) Pre-order traversal visits all parent nodes before their children
   * B) BSTs must be complete in order to be traversed with in-order traversal
   * C) Post-order traversal alone can be used to reconstruct a BST
@@ -15,7 +15,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * D) If you have nodes of value 3 and value 10, and the root is of value 5, then the root is guaranteed to be the Least Common Ancestor of the two nodes
   * E) Finding the Least Common Ancestor of two nodes has a time complexity of nlog(n) because you must look at each child as you move up or down the tree
   * F) Deleting a node in a BST requires having a `.parent` method on the node
-2.) Given this code, which statement(s) evaluate(s) to `true`?
+1. 2.) Given this code, which statement(s) evaluate(s) to `true`?
   ```javascript
     const a = 'string';
     const b = 'string';
@@ -43,7 +43,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * F) `h === f`
   * G) `h === g`
 
-3.) Choose the correct statement(s) about Networking and Scalability
+1. 3.) Choose the correct statement(s) about Networking and Scalability
   * A) Manchester coding is a strategy to deal with clock slip
   * B) Round Robin DNS binding is handled by the load balancer at the request destination
   * C) Session stickiness refers to the need for users to be able to log back into their account and have access to the data that was transmitted in past requests
@@ -52,12 +52,12 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * F) Sending the actual server id back to the requester in a cookie is not feasible because you don't want to expose private IP addresses
   * G) Caching compiled assets in memory can't increase server response times because it is expensive to determine which assets need to be cached
 
-4.) Choose the correct statement(s) about prototypal inheritance
+1. 4.) Choose the correct statement(s) about prototypal inheritance
   * A) An object created with `Object.create(a)` will share a prototype with `a`
   * B) Object.assign() is used to compose objects with only the features they need
   * C) Object.assign takes in an object and an arbitrary number of subsequent objects, merges them all with the first object and returns a brand new object
   * D) Calling super() in the constructor lets you choose which properties you want to inherit
-5.) Given this code, what will be logged?
+1. 5.) Given this code, what will be logged?
   ```javascript
     let a = {name: "A"};
     let b = Object.create(a);
@@ -121,7 +121,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   undefined
   ```
 
-6.) Given this code, what will be logged?    
+1. 6.) Given this code, what will be logged?    
   ```javascript
 
     const dFact = function(name) {
@@ -180,14 +180,14 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   { greet: undefined, age: 10 }
   false
   ```
-7.) Choose the correct statement(s) about AVL trees
+1. 7.) Choose the correct statement(s) about AVL trees
   * A) AVL trees require completeness at all times
   * B) AVL trees cannot delete in log(n) time because they may have to perform tree rotations
   * C) In a right tree rotation the right tree of the rotating node becomes the left tree of its parent
   * D) In a rightleft double rotation the left tree of the rotating node becomes the left tree of its grandparent
   * E) As long as the root node is balanced, not every subtree needs to be an AVL tree for the entire tree to be considered an AVL tree
   * F) AVL trees are incompatible with heapsort
-8.) Choose the correct statement(s) about the JS global object
+1. 8.) Choose the correct statement(s) about the JS global object
   * A) Both node.js and browser JS engines share a reference to the same global object
   * B) The global object can be used to check whether a function or object is available in the browser API
   * C) `let` and `const` can be defined on the global object as long as you do so in the highest scope

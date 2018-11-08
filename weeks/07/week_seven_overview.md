@@ -11,7 +11,7 @@
     - Compound Components
 
 #### Node Project
-    - Chat App
+* Chat App
 
 ## Practice Everyday
 

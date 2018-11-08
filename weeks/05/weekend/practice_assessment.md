@@ -6,25 +6,25 @@ Before you dive into the HackerRank test, it's important to review. We use the H
 
 Make an honest effort with these problems. An answer key is at the bottom of the page, but try and review your notes and readings before referring to these. 
 
-1.) Choose the correct statement(s) about Binary Search
+1. 1.) Choose the correct statement(s) about Binary Search
   * A) Binary Search always reduces the search space by half for each iteration/stach
   * B) The average Time Complexity is nlogn because you must consider every element and the stack has a height of log(n)
   * C) You can use a Binary Search algorithm to find peaks in dataset but you might not always know on which side of the current element a peak lies
   * D) You can use a Binary search any time you can determine from the current element which part of the dataset to search next
-2.) Which statement(s) about Promises is/are correct?
+1. 2.) Which statement(s) about Promises is/are correct?
   * A) You must pass in your own Resolve and Reject functions as arguments to any Promise
   * B) XHR functions must be wrapped in a Promise in order to use the returned data in a function outside the scope of the XHR
   * C) The Resolve function does not take any arguments itself
   * D) `.then` takes two arguments, the first of which is required
   * E) `.catch` is the only way to handle the Reject case
   * F) `.then` executes the functions it is passed by placing them into the callback queue rather than directly on the execution stack
-3.) Choose the correct statement(s) about speeding up websites
+1. 3.) Choose the correct statement(s) about speeding up websites
   * A) Minifying files reduces load time by compressing data and mapping duplicated bytes
   * B) A CDN can reduce load times by speeding up the time it takes to resolve IP addresses
   * C) The order in which scripts are loaded affects the time it takes to load the DOM
   * D) Since images are loaded asynchronously anyway, it is best to load higher resolution images and scale them rather than having multiple copies on your server
   * E) You can control whether a client's browser should cache your assets for future reuse
-4.) Choose the correct statement(s) about Web Security
+1. 4.) Choose the correct statement(s) about Web Security
   * A) FTP is inherently safe because it is an encrypted protocol for transferring files
   * B) Session cookies are tied to the browser so exposing them over unencrypted channels poses a relatively small security risk
   * C) WPA2 provides end to end encryption over wireless network, so you don't have to use HTTPS to send secure traffic to the server
@@ -34,12 +34,12 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * G) Unsigned public keys can be used to perpetrate Man in the Middle attacks over HTTPS
   * H) Diffie-Hellman key exchange is used to establish symmetric encryption keys
   
-5.) Choose the correct statement(s) about searching algorithms
+1. 5.) Choose the correct statement(s) about searching algorithms
   * A) Interpolation search is a modified version of Binary Search
   * B) A rotated array can be searched using Binary Search, but it has a worse time complexity because first you have to find the pivot element, which takes linear time
   * C) Interpolation search has a worse worst case than Binary Search, but is useful for evenly distributed data sets
   * D) Interpolation search has a best case time complexity of log(n)^2 because you find the best element within each new subset to split the data on
-6.) Choose the correct statement(s) about Promises
+1. 6.) Choose the correct statement(s) about Promises
   * A) `.then` returns the result of whichever of its function arguments is called
   * B) If the function that you pass to `.then` returns a promise, then the resolution of the `.then` will wait until the resolution of the Promise you created
   * C) Promise.resolve() wraps its argument in a Promise
@@ -48,13 +48,13 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * F) Promise.all will return a rejected promise if any of its arguments reject, even if some promises are still pending
   * G) You can only call .then on Promise.all if you can be sure that all of it's arguments will resolve
   * H) Promise.race will return a Promise with the same value as the first Promise to resolve, and thus all other Promises you pass it will remain pending
-7.) Choose the correct statement(s) about the DOM
-  * A) Tags placed after the closing </body> tag won't be read by the browser
+1. 7.) Choose the correct statement(s) about the DOM
+  * A) Tags placed after the closing `</body>` tag won't be read by the browser
   * B) The DOM has only one root node
   * C) `.children` ignores text nodes
   * D) DOM collections returned by JS functions can be used to insert elements into the DOM by pushing onto the collection
   * E) The collections returned by JS functions that access the DOM are static, and will not increase in size if you later append the DOM.
-8.) Which of these statement(s) about algorithms is/are correct?
+1. 8.) Which of these statement(s) about algorithms is/are correct?
   * A) Finding the K-th smallest element is best solved using a min-heap
   * B) When using a max-heap to find the K-th smallest element, you have to have a heap of size n
   * C) finding the pair of elements in a sorted array that is closest to a given sum cannot be done in better than nlogn time
@@ -63,13 +63,13 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * F) In Quicksort, pathological datasets can be handled by randomizing the boundaries passed to the partition function
   * G) In an in-place implementation of Quicksort, a partition function is used to actually sort elements and sorts the entire array passed to it each iteration/stack
   * H) The return value of the partition function represents the index of an element in its final sorted location
-9.) Which statement(s) about async/await is/are correct?
+1. 9.) Which statement(s) about async/await is/are correct?
   * A) async functions must take Promises as arguments
   * B) async function returns a Promise that resolves with the return value of the async function
   * C) async functions will only trigger .catch statements chained onto them if the async function throws an error
   * D) the `await` operator must precede a Promise expression
   * E) `await` can be used on the global scope
-10.) Select the correct statement(s) about OOP
+1. 10.) Select the correct statement(s) about OOP
   * A) Encapsulation refers to the idea that a class should represent one complete idea, and there should not be overlap with other classes
   * B) Getter and setter methods are used to access state from outside an object
   * C) Fields of an object refer to its internal state

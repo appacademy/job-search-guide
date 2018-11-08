@@ -15,7 +15,7 @@
     - Websockets
 
 #### Node Project
-    - Github-Grabber
+* Github-Grabber
 
 ## Practice Everyday
 
