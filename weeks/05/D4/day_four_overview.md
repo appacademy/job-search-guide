@@ -1,10 +1,10 @@
 ## Today's Learning Goals:
 
-- What does the async keyword do?
-- What does the await keyword do?
-- what does console.dir() do?
+- What does the `async` keyword do?
+- What does the `await` keyword do?
+- what does `console.dir()` do?
 - What happens if you set innerHTML to a script?
-- What does the .hidden property do?
+- What does the `.hidden` property do?
 - What is SQL injection? How do you avoid it?
 
 ## Update and Practice 30 minutes of Flashcards

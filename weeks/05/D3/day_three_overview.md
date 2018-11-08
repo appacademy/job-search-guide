@@ -8,7 +8,7 @@
 - What is Promise.race
 - What is the DOM?
 - What happens when you omit the head tag or the body tag in your HTML?
-- What happens if you inlclude more tags after the </body> tag?
+- What happens if you inlclude more tags after the `</body>` tag?
 - What kind of object is returned by .childNodes?
 - Talk about the different ways your can access DOm elements in jS
 - What are two important properties of DOM collections?
