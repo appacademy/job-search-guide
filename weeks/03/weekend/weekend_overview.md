@@ -1,13 +1,13 @@
 
 ## Today's Learning Goals:
 
-- [x] What is the time complexity of Radix Sort? What are the steps for this algorithm?
-- [x] What is an ideal use-case for Radix Sort?
-- [x] What is a Load Balancer?
-- [x] What are some exampels of Horizontal Scaling?
-- [x] What is Moore's Law?
-- [x] Describe the effects of using Group By and Having
-- [x] Explain the differences between a Function Expression and Function Declaration
+- What is the time complexity of Radix Sort? What are the steps for this algorithm?
+- What is an ideal use-case for Radix Sort?
+- What is a Load Balancer?
+- What are some exampels of Horizontal Scaling?
+- What is Moore's Law?
+- Describe the effects of using Group By and Having
+- Explain the differences between a Function Expression and Function Declaration
 
 
 # 🚨 Practice Test 🚨 
