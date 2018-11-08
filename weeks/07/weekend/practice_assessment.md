@@ -6,7 +6,7 @@ Before you dive into the HackerRank test, it's important to review. We use the H
 
 Make an honest effort with these problems. An answer key is at the bottom of the page, but try and review your notes and readings before referring to these. 
 
-## Weeks 7 & 8
+## Weeks 7
 
 1. 1.) Choose the correct statement(s) about Linked List operations
   * A) Deleting a node when you have the head to the list is a linear operation

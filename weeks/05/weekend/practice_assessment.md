@@ -49,7 +49,7 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * G) You can only call .then on Promise.all if you can be sure that all of it's arguments will resolve
   * H) Promise.race will return a Promise with the same value as the first Promise to resolve, and thus all other Promises you pass it will remain pending
 1. 7.) Choose the correct statement(s) about the DOM
-  * A) Tags placed after the closing </body> tag won't be read by the browser
+  * A) Tags placed after the closing `</body>` tag won't be read by the browser
   * B) The DOM has only one root node
   * C) `.children` ignores text nodes
   * D) DOM collections returned by JS functions can be used to insert elements into the DOM by pushing onto the collection
