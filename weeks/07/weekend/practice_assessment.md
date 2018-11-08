@@ -37,10 +37,3 @@ Make an honest effort with these problems. An answer key is at the bottom of the
   * B) An abstract class is not meant to be inherited from
   * C) Finding where a car is parked should be a linear operation because the order in which cars entered the parking lot must be stored in an arrays
   * D) Concurrency is not a problem as long as you restrict the number of entrances to you parking lot
-
-
-
----
-## No Peeking!
-
-* [Answer Key]('https://github.com/appacademy/job-search-guide/tree/master/weeks/07/weekend/answer_key.md')

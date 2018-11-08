@@ -1,8 +1,8 @@
 ## Answer Key
-  1. A, B, G
+  1.) A, B, G
 
-  2. C
+  2.) C
 
-  3. B, E, F, G
+  3.) B, E, F, G
   
-  4. A, D
+  4.) A, D
