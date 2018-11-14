@@ -7,7 +7,7 @@ Tell me about a time when you linked two or more problems together and identifie
 ## Print Bridges
 Write a function that takes in a graph and prints out the edges that are bridges.  A bridge is an edge whose deletion will cause the graph to become disconnected.  See diagram below.
 
-![](bridge.png)
+![bridge](https://assets.aaonline.io/post-graduate-guide/pairboarding-workshop/w1/tuesday/bridge.png)
 
 ## Hints
 A simple approach would be remove each edge from the graph one by one and run BFS/DFS starting from any vertex.  If the BFS/DFS covers all nodes than the removed edge cannot be a bridge.  Otherwise the edge is a bridge.  The time complexity of this solution is O(e(v + e)) where V is the the number of vertices and e is the number of edges in the graph.
