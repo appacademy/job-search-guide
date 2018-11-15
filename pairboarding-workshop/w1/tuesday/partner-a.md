@@ -12,7 +12,7 @@ Given a directed graph, check to see whether it is strongly connected. A graph i
 
 The graph below is strongly connected since a path exists between all pairs of vertices:
 
-![directed-graph](./directed-graph.png)
+![directed-graph](https://assets.aaonline.io/post-graduate-guide/pairboarding-workshop/w1/tuesday/directed-graph.png)
 
 ## Solution
 
