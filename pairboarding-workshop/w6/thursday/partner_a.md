@@ -24,7 +24,7 @@ document.getElementById; //function getElementById() { [native code] }
 
 ### Answer
 
- If `n = 50`. number of `0`s would be `11` (`0`, `10`, `20`, `30`, `40`, `50`, `60`, `70`, `80`, `90`, `100`). Please note that 100 has two `0`s. This one looks simple but can be a little tricky.
+ If `n = 100`. number of `0`s would be `11` (`0`, `10`, `20`, `30`, `40`, `50`, `60`, `70`, `80`, `90`, `100`). Please note that 100 has two `0`s. This one looks simple but can be a little tricky.
 
 ```JavaScript
 function countZero(n){
